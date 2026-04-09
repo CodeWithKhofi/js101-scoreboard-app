@@ -15,4 +15,7 @@ I developed this project to help my students move past basic syntax. By focusing
 2. Try to complete the project
 3. If you get stuck, check the 'solution' folder
 
+## Challenge
+Add a sound(beep) when a score is added
+
 #CodeWithKhofi
